@@ -22,7 +22,7 @@ To install and set up the template, follow these steps:
 git clone https://github.com/Mahmoudatif93/Mylerz-Task-project
 cd  Mylerz-Task
 composer install
-cp .env.example .env
+
 
 # Open .env and set up the database
 
